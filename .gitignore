@@ -1,0 +1,5 @@
+yarn.lock
+*.log
+*.dmg
+node_modules/
+installer/
